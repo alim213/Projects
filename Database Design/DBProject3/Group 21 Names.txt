@@ -1,0 +1,7 @@
+Group 21
+
+Enrique Gonzalez -Search Engine, Review, Item  
+Fernando Vargas - HTML, Items, Review  
+Anthony Lim - Debugging, Review, Items
+
+Xampp for the server and database set up
